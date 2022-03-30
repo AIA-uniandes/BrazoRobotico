@@ -1,4 +1,4 @@
-# BrazoRobotico
+# Brazo Robótico
 Este repositorio contiene toda la información necesaria para el uso del brazo robótico. Se incluyen manuales y código con ejemplos prácticos.
 Adjunto se encuentra un manual de usuarios con el que podrás aprender el uso básico del brazo robótico UR3. Para mayor información sobre el robot y su funcionamiento, se agregan los siguientes enlaces de interés.
 ## Enlaces de interés
