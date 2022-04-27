@@ -12,5 +12,5 @@ Manual y herramienta necesarios para el control del brazo robótico por medio de
 - [Artículos oficiales de soporte, videos, documentación y descargas](https://www.universal-robots.com/support/).
 - [Foro oficial con preguntas técnicas, dudas e información sobre el brazo UR3](https://forum.universal-robots.com/).
 - [Video tutoriales paso a paso sobre el uso del brazo robótico](https://academy.universal-robots.com/video-tutorials).
-- [Configuración de Python en su computador de escritorio (Variable de entorno)](http://www.scielo.org.mx/avaliacao/manual_marcacion/instalacion_markup_paths.html)
+- [Configuración de Python en su computador (Variable de entorno)](http://www.scielo.org.mx/avaliacao/manual_marcacion/instalacion_markup_paths.html)
 
